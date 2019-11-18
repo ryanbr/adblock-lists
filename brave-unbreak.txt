@@ -181,6 +181,15 @@
 @@||thedailybeast.com/static/advert.js$script,domain=thedailybeast.com
 ! Anti-adblock: realclear
 @@||realclearpolitics.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearpolitics.com
+@@||realclearhealth.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearhealth.com
+@@||realclearreligion.org/asset/section/doubleclick.js$xmlhttprequest,domain=realclearreligion.org
+@@||realclearenergy.org/asset/section/doubleclick.js$xmlhttprequest,domain=realclearenergy.org
+@@||realclearhistory.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearhistory.com
+@@||realclearpolicy.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearpolicy.com
+@@||realclearworld.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearworld.com
+@@||realclearmarkets.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearmarkets.com
+@@||realclearbooks.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearbooks.com
+@@||realcleareducation.com/asset/section/doubleclick.js$xmlhttprequest,domain=realcleareducation.com
 @@||realclearscience.com/asset/section/doubleclick.js$xmlhttprequest,domain=realclearscience.com
 @@||realcleardefense.com/asset/section/doubleclick.js$xmlhttprequest,domain=realcleardefense.com
 ! Adblock-Tracking: vice.com
